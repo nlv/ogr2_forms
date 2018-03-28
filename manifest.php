@@ -8,11 +8,11 @@ $manifest = array(
     'is_uninstallable' => true,
     'published_date' => '2018-03-28',
     'type' => 'module',
-    'version' => '1.0.2',
+    'version' => '1.0.3',
     'dependencies' => array(
       array(
        'id_name' => 'org2_contacts',
-       'version' => '1.0',
+       'version' => '1.1',
       ),
     ),
 );
