@@ -6,9 +6,15 @@ $manifest = array(
     'author' => 'Leon.V.Nikitin@pravmail.ru',
     'description' => 'Формы для org2.',
     'is_uninstallable' => true,
-    'published_date' => '2017-05-28',
+    'published_date' => '2018-03-28',
     'type' => 'module',
-    'version' => '1.0.0',
+    'version' => '1.0.2',
+    'dependencies' => array(
+      array(
+       'id_name' => 'org2_contacts',
+       'version' => '1.0',
+      ),
+    ),
 );
 $installdefs = array(
     'id' => 'org2_forms',
