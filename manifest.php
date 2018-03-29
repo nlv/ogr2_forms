@@ -8,10 +8,14 @@ $manifest = array(
     'is_uninstallable' => true,
     'published_date' => '2018-03-28',
     'type' => 'module',
-    'version' => '1.0.3',
+    'version' => '1.0.4',
     'dependencies' => array(
       array(
        'id_name' => 'org2_contacts',
+       'version' => '1.2',
+      ),
+      array(
+       'id_name' => 'org2_doms',
        'version' => '1.1',
       ),
     ),
