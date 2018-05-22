@@ -6,17 +6,17 @@ $manifest = array(
     'author' => 'Leon.V.Nikitin@pravmail.ru',
     'description' => 'Формы для org2.',
     'is_uninstallable' => true,
-    'published_date' => '2018-04-01',
+    'published_date' => '2018-05-23',
     'type' => 'module',
-    'version' => '1.0.14',
+    'version' => '1.0.15',
     'dependencies' => array(
       array(
        'id_name' => 'org2_contacts',
-       'version' => '1.3',
+       'version' => '1.4',
       ),
       array(
        'id_name' => 'org2_doms',
-       'version' => '1.2',
+       'version' => '1.3',
       ),
     ),
 );
