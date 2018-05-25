@@ -6,9 +6,9 @@ $manifest = array(
     'author' => 'Leon.V.Nikitin@pravmail.ru',
     'description' => 'Формы для org2.',
     'is_uninstallable' => true,
-    'published_date' => '2018-05-23',
+    'published_date' => '2018-05-24',
     'type' => 'module',
-    'version' => '1.1.0',
+    'version' => '1.1.1',
     'dependencies' => array(
       array(
        'id_name' => 'org2_accounts',
