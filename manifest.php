@@ -8,7 +8,7 @@ $manifest = array(
     'is_uninstallable' => true,
     'published_date' => '2018-05-24',
     'type' => 'module',
-    'version' => '1.1.1',
+    'version' => '1.1.2',
     'dependencies' => array(
       array(
        'id_name' => 'org2_accounts',
